@@ -1,1 +1,1 @@
-Hello from branch2 (Commit 1)
+Hello from branch2 (Commit 2)
